@@ -1,0 +1,100 @@
+[{
+    "name": "Tommy Shelby",
+    "born": 1890,
+    "port_by": "Cillian Murphy",
+    "sposter": "img/tommyshelby.jpg",
+    "bposter": "img/tommyshelby1.jpg",
+    "type": "brothers",
+    "description":"Thomas Michael ‘Tommy’ Shelby OBE DCM MM MP is the son of Arthur and Mrs. Shelby, brother of Arthur, John, Ada and Finn Shelby, father of Charles and Ruby Shelby, as well as being the husband of Grace and Lizzie Shelby. He is the leader of the Birmingham criminal gang, the Peaky Blinders and the patriarch of the Shelby Family.",
+    "url": "tommyshelby.html"
+}, {
+    "name": "Arthur Shelby",
+    "born": 1887,
+    "port_by": "Paul Anderson",
+    "sposter": "img/arthurshelby.jpg",
+    "bposter": "img/arthurshelby1.jpg",
+    "type": "brothers",
+    "description":"Arthur Shelby Jr. is the eldest son of Arthur and Mrs Shelby, older brother of Thomas, John, Ada and Finn Shelby, as well as being the father of Billy Shelby. He was married to Linda Shelby, and is a tough member of the Peaky Blinders. He is also Deputy Vice President of Shelby Company Limited and member of the ICA, acting as his brother's right-hand man. Arthur has drug problem, which get worse over time.",
+    "url": "arthurshelby.html"
+}, {
+    "name": "John Shelby",
+    "born": 1895,
+    "port_by": "Joe Cole",
+    "sposter": "img/johnshelby.jpg",
+    "bposter": "img/johnshelby1.jpg",
+    "type": "brothers",
+    "description":"John Michael Shelby (also known as Johnny and John Boy) is a British street gangster who was a soldier during the First World War. He is the third son of Arthur Shelby Sr, brother of Arthur, Thomas, Ada and Finn Shelby, as well as being the husband of Esme Shelby. John has seven children, two sons and two daughters with his deceased first wife Martha Shelby, and three children with Esme, whose genders are unknown. One of his daughters is called Katie Shelby, but his other children’s names are unknown.",
+    "url": "johnshelby.html"
+}, {
+    "name": "Finn Shelby",
+    "born": 1908,
+    "port_by": "Harry Kirton",
+    "sposter": "img/finnshelby.jpg",
+    "bposter": "img/finnshelby1.jpg",
+    "type": "brothers",
+    "description":"Finn Shelby is the youngest member of the Peaky Blinders, a son of Arthur Shelby Sr. and Mrs. Shelby and the youngest brother of Arthur, Thomas, John, and Ada Shelby. He is later married to Mary Shelby.Finn's role in the beginning is minor due to his young age (11 at the beginning of the first season), however, he gets himself into quite a few complicated situations causing trouble to the rest of his family. As the story progresses, Finn grows up and becomes a brighter figure in the gangster world.",
+    "url": "finnshelby.html"
+}, {
+    "name": "Alfie Solomons",
+    "born": 1888,
+    "port_by": "Tom Hardy",
+    "sposter": "img/alfiesolomons.jpg",
+    "bposter": "img/alfiesolomons.gif",
+    "type": "main",
+    "description":"Alfred `Alfie` Solomons Jr. is a Jewish gang leader who resided in Camden Town, London. It is implied that Alfie's mother was a Russian refugee, where his mother was from and he went to school in London with Darby Sabini.",
+    "url": "alfiesolomons.html"
+}, {
+    "name": "Jeremiah Jesus",
+    "born": 1880,
+    "port_by": "Benjamin Zephaniah",
+    "sposter": "img/jeremiah.jpg",
+    "bposter": "img/jeremiah.gif",
+    "type": "secondary",
+    "description":"",
+    "url": "jeremiahjesus.html"
+}, {
+    "name": "Polly Gray",
+    "born": 1884,
+    "port_by": "Helen McCrory",
+    "sposter": "img/polly.jpg",
+    "bposter": "img/polly1.jpg",
+    "type": "main",
+    "description":"Elizabeth Pollyanna `Polly` Gray (née Shelby) is the mother of Michael and Anna Gray, aunt of Arthur, Thomas, John, Ada and Finn Shelby, as well as being the matriarch of the Shelby Family. She is part of the Birmingham criminal gang, the Peaky Blinders, a certified accountant and company treasurer of Shelby Company Limited.",
+    "url": "polly.html"
+}, {
+    "name": "Michael Gray",
+    "born": 1903,
+    "port_by": "Finn Cole",
+    "sposter": "img/michael.jpg",
+    "bposter": "img/michael1.jpg",
+    "type": "main",
+    "description":"Michael Gray is the son of Polly Gray and the cousin of the Shelby siblings. He was taken away from Polly at a young age and was raised by his adoptive mother. After Thomas learns about Polly's wish to find her children again, he pays Michael's foster family a visit and invites the boy to see his biological mother. Michael reunites with his mother and becomes part of the Shelby Family and the Peaky Blinders at the age of 17, starting out on the respectable and legal side of the family business, Shelby Company Limited.",
+    "url": "michael.html"
+}, {
+    "name": "Ada Thorne",
+    "born": 1897,
+    "port_by": "Sophie Rundle",
+    "sposter": "img/ada.jpg",
+    "bposter": "img/ada1.jpg",
+    "type": "main",
+    "description":"Ada Thorne (née Shelby) is the fourth and only female of the Shelby siblings and the only sibling initially not involved with the Peaky Blinders. By the end of 1924, however, Ada assumes a leading position at the United States branch of Shelby Company Limited, dealing only with legal acquisitions; unlike her brothers back home in Birmingham, England.She is the widow of known communist, Freddie Thorne, with who she has son, Karl Thorne — named after Karl Marx.",
+    "url": "ada.html"
+}, {
+    "name": "Grace Shelby",
+    "born": 1894,
+    "port_by": "Annabelle Wallis",
+    "sposter": "img/grace.jpg",
+    "bposter": "img/grace1.jpg",
+    "type": "secondary",
+    "description":"Grace Helen Shelby (née Burgess) is an Irish woman who takes up employment as a barmaid at The Garrison Pub, and secretly operates as an undercover agent for the Birmingham Police. Her mission involves getting close to Thomas Shelby in order to retrieve stolen weaponry. She works under Inspector Campbell who used to know her late father, and she claims to be trained as a secret operative.",
+    "url": "grace.html"
+}, {
+    "name": "Luca Changretta",
+    "born": 1880,
+    "port_by": "Adrien Brody",
+    "sposter": "img/luca.jpg",
+    "bposter": "img/luca1.gif",
+    "type": "secondary",
+    "description":"Luca Changretta is the main antagonist of Season 4. He is an Italian-American mobster from New York City, the son of Audrey and Vicente Changretta, and the new leader of the Changretta family.",
+    "url": "luca.html"
+}]
